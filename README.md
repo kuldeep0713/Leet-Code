@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [1325-path-with-maximum-probability](https://github.com/kuldeep0713/Leet-Code/tree/master/1325-path-with-maximum-probability) |
 ## Graph
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/kuldeep0713/Leet-Code/tree/master/1325-path-with-maximum-probability) |
+## Greedy
+|  |
+| ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
 <!---LeetCode Topics End-->
