@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kuldeep0713/Leet-Code/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0624-maximum-distance-in-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [1325-path-with-maximum-probability](https://github.com/kuldeep0713/Leet-Code/tree/master/1325-path-with-maximum-probability) |
 | [2035-count-sub-islands](https://github.com/kuldeep0713/Leet-Code/tree/master/2035-count-sub-islands) |
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/kuldeep0713/Leet-Code/tree/master/2035-count-sub-islands) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
