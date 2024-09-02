@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kuldeep0713/Leet-Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0624-maximum-distance-in-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
+| [0890-lemonade-change](https://github.com/kuldeep0713/Leet-Code/tree/master/0890-lemonade-change) |
 | [1325-path-with-maximum-probability](https://github.com/kuldeep0713/Leet-Code/tree/master/1325-path-with-maximum-probability) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kuldeep0713/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/kuldeep0713/Leet-Code/tree/master/2035-count-sub-islands) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
+| [0890-lemonade-change](https://github.com/kuldeep0713/Leet-Code/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
