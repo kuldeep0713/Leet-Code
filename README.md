@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kuldeep0713/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/kuldeep0713/Leet-Code/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/kuldeep0713/Leet-Code/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
@@ -102,4 +103,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kuldeep0713/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kuldeep0713/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kuldeep0713/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kuldeep0713/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kuldeep0713/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kuldeep0713/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
