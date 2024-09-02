@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0624-maximum-distance-in-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [1325-path-with-maximum-probability](https://github.com/kuldeep0713/Leet-Code/tree/master/1325-path-with-maximum-probability) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kuldeep0713/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/kuldeep0713/Leet-Code/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kuldeep0713/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Graph
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kuldeep0713/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,5 +94,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kuldeep0713/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kuldeep0713/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kuldeep0713/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
