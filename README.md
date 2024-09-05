@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kuldeep0713/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/kuldeep0713/Leet-Code/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kuldeep0713/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/kuldeep0713/Leet-Code/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kuldeep0713/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Graph
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kuldeep0713/Leet-Code/tree/master/0002-add-two-numbers) |
+| [2155-find-missing-observations](https://github.com/kuldeep0713/Leet-Code/tree/master/2155-find-missing-observations) |
 ## Recursion
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kuldeep0713/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kuldeep0713/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kuldeep0713/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/kuldeep0713/Leet-Code/tree/master/2155-find-missing-observations) |
 ## Prefix Sum
 |  |
 | ------- |
