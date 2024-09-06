@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/kuldeep0713/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/kuldeep0713/Leet-Code/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kuldeep0713/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kuldeep0713/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |
 | ------- |
@@ -45,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/kuldeep0713/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kuldeep0713/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kuldeep0713/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kuldeep0713/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kuldeep0713/Leet-Code/tree/master/0002-add-two-numbers) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kuldeep0713/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
