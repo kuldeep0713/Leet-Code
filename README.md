@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/kuldeep0713/Leet-Code/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/kuldeep0713/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/kuldeep0713/Leet-Code/tree/master/1325-path-with-maximum-probability) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/kuldeep0713/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kuldeep0713/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/kuldeep0713/Leet-Code/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kuldeep0713/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kuldeep0713/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0906-walking-robot-simulation](https://github.com/kuldeep0713/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kuldeep0713/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/kuldeep0713/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kuldeep0713/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kuldeep0713/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kuldeep0713/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/kuldeep0713/Leet-Code/tree/master/0010-regular-expression-matching) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/kuldeep0713/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kuldeep0713/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kuldeep0713/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Sliding Window
@@ -150,9 +153,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/kuldeep0713/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kuldeep0713/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/kuldeep0713/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kuldeep0713/Leet-Code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
