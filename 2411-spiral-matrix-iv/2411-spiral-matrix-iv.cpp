@@ -10,52 +10,38 @@
  */
 class Solution {
 public:
-    vector<vector<int>> spiralMatrix(int m, int n, ListNode* head) {
-        int c=head->val;
-        vector<vector<int>>matrix(m,vector<int>(n));
-        int row=matrix.size(),col=matrix[0].size();
-        int top=0,bottom=row-1,left=0,right=col-1;
-        while(left<=right && top<=bottom){
-            for(int j=left;j<=right;j++){
-                (head?c=head->val:c=-1);
-                matrix[top][j]=c;
-                if(head)
-                head=head->next;
+    static vector<vector<int>> spiralMatrix(int m, int n, ListNode* head) {
+        vector<vector<int>> ans(m, vector<int>(n, -1));
+        const int layer=min((m+1)/2, (n+1)/2);
+        ListNode* curr=head;
+        for(int k=0; k<layer; k++){
+            for(int j=k; j<n-k; j++, curr=curr->next){//right
+                if (curr) ans[k][j]=curr->val;
+                else break;
             }
-                top++;
-            
-
-            for(int i=top;i<=bottom;i++){
-                    (head?c=head->val:c=-1);
-                    matrix[i][right]=c;
-                    if(head)
-                    head=head->next;
+            for(int i=k+1; i<m-k; i++, curr=curr->next){//down
+                if (curr) ans[i][n-1-k]=curr->val;
+                else break;
             }
-                    right--;
-            
-
-            if(top<=bottom){
-                for(int j=right;j>=left;j--){
-                    (head?c=head->val:c=-1);
-                    matrix[bottom][j]=c;
-                    if(head)
-                    head=head->next;
-                }
-                    bottom--;
-                
+            for(int j=n-k-2; j>k; j--, curr=curr->next){//left
+                if (curr) ans[m-k-1][j]=curr->val;
+                else break;
             }
-
-            if(left<=right){
-                for(int i=bottom;i>=top;i--){
-                    (head?c=head->val:c=-1);
-                    matrix[i][left]=c;
-                    if(head)
-                    head=head->next;
-                }
-                    left++;
-                
+            for(int i=m-1-k; i>k; i--, curr=curr->next){//up
+                if (curr) ans[i][k]=curr->val;
+                else break;
             }
+            if (!curr) break;
         }
-        return matrix;
+        return ans; 
     }
 };
+
+
+
+auto init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 'c';
+}();
