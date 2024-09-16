@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kuldeep0713/Leet-Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0539-minimum-time-difference](https://github.com/kuldeep0713/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/kuldeep0713/Leet-Code/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/kuldeep0713/Leet-Code/tree/master/0906-walking-robot-simulation) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kuldeep0713/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0539-minimum-time-difference](https://github.com/kuldeep0713/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/kuldeep0713/Leet-Code/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kuldeep0713/Leet-Code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kuldeep0713/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/kuldeep0713/Leet-Code/tree/master/0010-regular-expression-matching) |
+| [0539-minimum-time-difference](https://github.com/kuldeep0713/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kuldeep0713/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kuldeep0713/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kuldeep0713/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kuldeep0713/Leet-Code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/kuldeep0713/Leet-Code/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
