@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kuldeep0713/Leet-Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0179-largest-number](https://github.com/kuldeep0713/Leet-Code/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kuldeep0713/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/kuldeep0713/Leet-Code/tree/master/0890-lemonade-change) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/kuldeep0713/Leet-Code/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/kuldeep0713/Leet-Code/tree/master/0890-lemonade-change) |
 ## Hash Table
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kuldeep0713/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/kuldeep0713/Leet-Code/tree/master/0010-regular-expression-matching) |
+| [0179-largest-number](https://github.com/kuldeep0713/Leet-Code/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kuldeep0713/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kuldeep0713/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kuldeep0713/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -188,5 +191,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/kuldeep0713/Leet-Code/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kuldeep0713/Leet-Code/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
