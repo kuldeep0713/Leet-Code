@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/kuldeep0713/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/kuldeep0713/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kuldeep0713/Leet-Code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/kuldeep0713/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kuldeep0713/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kuldeep0713/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kuldeep0713/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kuldeep0713/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/kuldeep0713/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kuldeep0713/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/kuldeep0713/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kuldeep0713/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kuldeep0713/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/kuldeep0713/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kuldeep0713/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kuldeep0713/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+| [2755-extra-characters-in-a-string](https://github.com/kuldeep0713/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/kuldeep0713/Leet-Code/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/kuldeep0713/Leet-Code/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/kuldeep0713/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
 ## Rolling Hash
 |  |
 | ------- |
