@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/kuldeep0713/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/kuldeep0713/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/kuldeep0713/Leet-Code/tree/master/0729-my-calendar-i) |
+| [0859-design-circular-deque](https://github.com/kuldeep0713/Leet-Code/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/kuldeep0713/Leet-Code/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/kuldeep0713/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/kuldeep0713/Leet-Code/tree/master/1325-path-with-maximum-probability) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kuldeep0713/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0725-split-linked-list-in-parts](https://github.com/kuldeep0713/Leet-Code/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/kuldeep0713/Leet-Code/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/kuldeep0713/Leet-Code/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/kuldeep0713/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kuldeep0713/Leet-Code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/kuldeep0713/Leet-Code/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kuldeep0713/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/kuldeep0713/Leet-Code/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -240,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/kuldeep0713/Leet-Code/tree/master/0729-my-calendar-i) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/kuldeep0713/Leet-Code/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
