@@ -41,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/kuldeep0713/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/kuldeep0713/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kuldeep0713/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/kuldeep0713/Leet-Code/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kuldeep0713/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/kuldeep0713/Leet-Code/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/kuldeep0713/Leet-Code/tree/master/2803-modify-graph-edge-weights) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/kuldeep0713/Leet-Code/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/kuldeep0713/Leet-Code/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/kuldeep0713/Leet-Code/tree/master/2035-count-sub-islands) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/kuldeep0713/Leet-Code/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
 | ------- |
